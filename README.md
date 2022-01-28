@@ -5,3 +5,6 @@
 -- services
 -- store
 -- styles
+
+## Installation 
+1. yarn add @coreui/react
